@@ -1,1 +1,1 @@
-sample website under construction
+<strong>sample website under construction</strong>
